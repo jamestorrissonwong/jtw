@@ -3,7 +3,7 @@ title: James Wong
 tagline: mechanical engineer +
 url: "https://jamestorrissonwong.github.io/jtw"
 paginate: 1
-baseurl: "/"
+baseurl: "jtw/"
 permalink: :title/
 
 
