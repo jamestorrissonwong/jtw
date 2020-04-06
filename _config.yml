@@ -6,7 +6,7 @@ paginate: 1
 baseurl: "/jtw/"
 permalink: :title/
 
-remote_theme: essentialenemy/noir
+remote_theme: jamestorrissonwong/eenoir
 
 kramdown:
     footnote_backlink: "&#10548;"
