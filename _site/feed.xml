@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>James Wong</title>
+ <link href="http://localhost:4000/feed.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2020-04-06T01:02:05-07:00</updated>
+ <id>http://localhost:4000/</id>
+ <author>
+   <name>James Wong</name>
+   <email>jtw2@andrew.cmu.edu</email>
+ </author>
+
+ 
+ <entry>
+   <title>First Post</title>
+   <link href="http://localhost:4000/firstpost/"/>
+   <updated>2020-04-05T14:30:00-07:00</updated>
+   <id>http://localhost:4000/firstpost</id>
+   <content type="html">&lt;p&gt;This is the start of my new website. While my old one was previously hosted on the CMU AFS system, this one will hopefully take advantage of the fact that&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;I will be able to continue this site after I graduate&lt;/li&gt;
+  &lt;li&gt;The integration between Github Pages and Jekyll will allow me to create a more elegant, cohesive experience&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fins</title>
+   <link href="http://localhost:4000/fins/"/>
+   <updated>2020-03-11T14:30:00-07:00</updated>
+   <id>http://localhost:4000/fins</id>
+   <content type="html">&lt;p&gt;Oops maybe i shouldve changed this text&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;center&gt;&lt;img src=&quot;/assets/fin.jpg&quot; alt=&quot;Midnight&quot; style=&quot;width:100%&quot; /&gt;&lt;/center&gt;
+  &lt;figcaption&gt;we tried cf&lt;/figcaption&gt;
+&lt;/figure&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>SubT Summer Reflection</title>
+   <link href="http://localhost:4000/SubTSummerReflection/"/>
+   <updated>2019-09-11T14:30:00-07:00</updated>
+   <id>http://localhost:4000/SubTSummerReflection</id>
+   <content type="html">&lt;p&gt;Oops maybe i shouldve changed this text&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;center&gt;&lt;img src=&quot;/assets/nodedropper.jpg&quot; alt=&quot;Midnight&quot; style=&quot;width:100%&quot; /&gt;&lt;/center&gt;
+  &lt;figcaption&gt;i finally got paid all my overtime&lt;/figcaption&gt;
+&lt;/figure&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pole Bot Summer Reflection</title>
+   <link href="http://localhost:4000/PolebotSummerReflection/"/>
+   <updated>2019-09-11T14:30:00-07:00</updated>
+   <id>http://localhost:4000/PolebotSummerReflection</id>
+   <content type="html">&lt;p&gt;Oops maybe i shouldve changed this text&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;center&gt;&lt;img src=&quot;/assets/Polebot_V3.jpg&quot; alt=&quot;Midnight&quot; style=&quot;width:100%&quot; /&gt;&lt;/center&gt;
+  &lt;figcaption&gt;we dont have any recent pics rip&lt;/figcaption&gt;
+&lt;/figure&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Buggy 2018-2019</title>
+   <link href="http://localhost:4000/buggy1819/"/>
+   <updated>2019-04-11T14:30:00-07:00</updated>
+   <id>http://localhost:4000/buggy1819</id>
+   <content type="html">&lt;p&gt;Oops maybe i shouldve changed this text&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;center&gt;&lt;img src=&quot;/assets/fringe_buggy.jpg&quot; alt=&quot;Midnight&quot; style=&quot;width:100%&quot; /&gt;&lt;/center&gt;
+  &lt;figcaption&gt;literal loves&lt;/figcaption&gt;
+&lt;/figure&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Booth 2018-2019</title>
+   <link href="http://localhost:4000/booth1819/"/>
+   <updated>2019-04-11T14:30:00-07:00</updated>
+   <id>http://localhost:4000/booth1819</id>
+   <content type="html">&lt;p&gt;Oops maybe i shouldve changed this text&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;center&gt;&lt;img src=&quot;/assets/fringe_booth.jpg&quot; alt=&quot;Midnight&quot; style=&quot;width:100%&quot; /&gt;&lt;/center&gt;
+  &lt;figcaption&gt;wow who wired that booth&lt;/figcaption&gt;
+&lt;/figure&gt;
+</content>
+ </entry>
+ 
+
+</feed>

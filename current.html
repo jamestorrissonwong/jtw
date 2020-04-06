@@ -1,0 +1,52 @@
+---
+layout: page
+permalink: /current/
+title: Current Work
+---
+<div>
+<h2><small>Classes</small></h2>
+
+
+
+
+<h2><small>Projects</small></h2>
+
+
+
+
+<h2><small>Completed (So Not Current I Suppose)</small></h2>
+
+
+
+<h2><small>Backlog</small></h2>
+</div>
+
+<div>
+
+{% assign tags_sorted = site.tags | sort %}
+  
+
+{% for tag in tags_sorted %}
+    {% capture tag_name %}{{ tag | first }}{% endcapture %}
+
+    {% if tag_name == "Current" %}
+        
+  <div class="archive-group">
+    {% capture tag_name %}{{ tag | first }}{% endcapture %}
+	
+    <div id="#{{ tag_name | slugize }}"></div>
+
+    <h3 class="tag-head"><small>#{{ tag_name }}</small></h3>
+    <a name="{{ tag_name | slugize }}"></a>
+
+    {% for post in site.tags[tag_name] %}
+    <article class="archive-item">
+      <a href="{{ post.url }}">{{ post.title }}{% if post.link %}<span class="link-arrow"> &rarr;</span>{% endif %}</a>
+    </article>
+    {% endfor %}
+  </div>
+    {% endif %}
+
+{% endfor %}
+
+</div>
