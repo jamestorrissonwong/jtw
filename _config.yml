@@ -1,9 +1,9 @@
 # Setup
 title: James Wong
 tagline: mechanical engineer +
-url: "jamestorrissonwong.io/jtw"
+url: "jamestorrissonwong.io/"
 paginate: 1
-baseurl: "/"
+baseurl: "jtw/"
 permalink: :title/
 
 
