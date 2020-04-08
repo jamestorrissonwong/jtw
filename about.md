@@ -7,6 +7,7 @@ title: About
 ###  James Wong
 
 is a current Sophomore studying Mechanical Engineering. Currently also pursuing coursework in Cybersecurity and International Conflict as well as Computer Science. 
+<br>
 
 ### How can you find him?
 
@@ -16,6 +17,9 @@ My School Email: [jtw2@andrew.cmu.edu](mailto:jtw2@andrew.cmu.edu "My School Ema
 
 My Personal Email: [jamestorrissonwong@gmail.com](mailto:jamestorrissonwong@gmail.com "My Personal Email")
 
+<br>
+### For the full archive of my posts
+<span class = "fixed"><a style="color:white;" href="/archive/">archive</a></span>
 
 ### Wow that kid is cool. I wonder what he does that ISN'T work
 
