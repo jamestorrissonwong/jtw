@@ -38,15 +38,6 @@ So do tables:
 
 Here are the buttons whose class names and colors can be easily customized:
 
-<span class="added">added</span> This span class is named "added" but you can change it.
-
-<span class="removed">removed</span> This span class is named "removed" but you can change it.
-
-<span class="improved">improved</span> This span class is named "improved" but you can change it.
-
-<span class="fixed">fixed</span> This span class is named "fixed" but you can change it.
-
-<span class="soon">coming soon</span> This span class is named "soon" but you can change it.
 
 
 Remember to buy:

@@ -10,6 +10,6 @@ last_modified_at:
 Oops maybe i shouldve changed this text
 
 <figure>
-  <center><img src="/assets/Polebot_V3.jpg" alt="Midnight" style="width:100%"></center>
+  <center><img src="/assets/Polebot_V3.jpg"  style="width:100%"></center>
   <figcaption>we dont have any recent pics rip</figcaption>
 </figure>
