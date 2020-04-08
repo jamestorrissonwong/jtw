@@ -10,21 +10,21 @@ last_modified_at:
 One of the projects I worked on during Summer 2019 was for the DARPA Subterranean Challenge. The goal was to design and build a robot or several robots capable of autonomously exploring caves and underground urban areas, while collecting maps and performing artifact detection
 
 <figure>
-  <center><img src="/assets/subt_back.jpg"  style="width:100%"></center>
+  <center><img src="{{ site.baseurl }}/assets/subt_back.jpg"  style="width:100%"></center>
   <figcaption>i finally got paid all my overtime</figcaption>
 </figure>
 
 My specialty on the project was working on the hardware for our communications system. Each of our robots were supposed to drop small nodes, each containing a Wi-fi board that could mesh into a growing Wi-fi network as the robot explored out of line-of-sight. 
 
 <figure>
-  <center><img src="/assets/nodedropper.jpg"  style="width:100%"></center>
+  <center><img src="{{ site.baseurl }}/assets/nodedropper.jpg"  style="width:100%"></center>
   <figcaption></figcaption>
 </figure>
 
 The first part I worked on was the physical node-dropping subsystem. I became the point-person for the rest of the undergrads working in the shop when the 2 designers both left for a week. I machined several of the components, and directed changes to be made when the drawings were found to be incorrect. 
 
 <figure>
-  <center><img src="/assets/osc.jpg"  style="width:100%"></center>
+  <center><img src="{{ site.baseurl }}/assets/osc.jpg"  style="width:100%"></center>
   <figcaption></figcaption>
 </figure>
 

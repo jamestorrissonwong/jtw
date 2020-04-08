@@ -5,6 +5,8 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
+  {% capture tag_name %}{{ tag | first }}{% endcapture %}
+  {% if tag_name != "Personal" or "WritingAndMusings" or "ROTC" or "Books" or "Trans" or "HS"%}
   <article class="post">
 <h1 class="post-title">
 <a href="{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}">{{ post.title | smartify }}</a>{% if post.link %}<span class="link-arrow"> &rarr;</span>{% endif %}

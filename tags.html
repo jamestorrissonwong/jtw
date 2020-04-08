@@ -7,6 +7,10 @@ title: Tags
 <div>
 {% assign tags_sorted = site.tags | sort %}
 {% for tag in tags_sorted %}
+
+  {% capture tag_name %}{{ tag | first }}{% endcapture %}
+  {% if tag_name != "Personal" or "WritingAndMusings" or "ROTC" or "Books" or "Trans" or "HS"%}
+
   <div class="archive-group">
     {% capture tag_name %}{{ tag | first }}{% endcapture %}
 	
