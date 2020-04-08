@@ -67,11 +67,14 @@ ul#navigation-list li:hover{
 
 ul#navigation-list li:hover ul {
   display: block;
+  border-top-right-radius: 1em;
+  border-top-left-radius: 1em;
+  border-bottom-right-radius: 1em;
+  border-bottom-left-radius: 1em;
 }
 
 ul#navigation-list li ul {
-  position: absolute;
-  width: 200px;
+  position: relative;
   display: none;
 }
 
@@ -85,5 +88,9 @@ ul#navigation-list li ul li a {
 } 
 
 ul#navigation-list li ul li:hover {
+  border-top-right-radius: 1em;
+  border-top-left-radius: 1em;
+  border-bottom-right-radius: 1em;
+  border-bottom-left-radius: 1em;
   background: #666;
 }
