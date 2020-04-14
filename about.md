@@ -6,7 +6,7 @@ title: About
 
 ###  James Wong
 
-is a current Sophomore studying Mechanical Engineering. Currently also pursuing coursework in Cybersecurity and International Conflict as well as Computer Science. 
+is a current Sophomore studying Mechanical Engineering. Currently also pursuing coursework in Cybersecurity and International Conflict as well as Computer Science. Also works in a robotics lab. 
 <br>
 
 ### How can you find him?

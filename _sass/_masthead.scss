@@ -62,7 +62,12 @@ ul#navigation-list li:hover{
   border-top-left-radius: 1em;
   border-bottom-right-radius: 1em;
   border-bottom-left-radius: 1em;
+  background: rgb(172, 169, 169);
+  
+  @media (prefers-color-scheme: dark){
   background: #555;
+  }
+}
 }
 
 ul#navigation-list li:hover ul {
@@ -84,7 +89,11 @@ ul#navigation-list li ul li {
   border-top-left-radius: 1em;
   border-bottom-right-radius: 1em;
   border-bottom-left-radius: 1em;
+  background: rgb(172, 169, 169);
+  
+  @media (prefers-color-scheme: dark){
   background: #555;
+  }
 }
 
 ul#navigation-list li ul li a {
@@ -96,5 +105,9 @@ ul#navigation-list li ul li:hover {
   border-top-left-radius: 1em;
   border-bottom-right-radius: 1em;
   border-bottom-left-radius: 1em;
-  background: #666;
+  background: rgb(172, 169, 169);
+  
+  @media (prefers-color-scheme: dark){
+  background: #555;
+  }
 }
