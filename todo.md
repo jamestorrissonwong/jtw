@@ -13,14 +13,14 @@ title: Todo
 To Do:
 - [ ] select posts to /rotc/
 - [ ] gadgetry project page
-- [ ] cprobot page 
+- [x] cprobot page 
 - [ ] api page
 - [ ] intregrate spotify api to this website?
 - [ ] learn about webhooks with github pages
 - [ ] change block of c (idk what tho -> graphs?)
-- [ ] find demo code for sml
+- [x] find demo code for sml
 - [ ] posts on books (sheep man cometh, nix, bukowski)
 - [ ] stress project page
-- [ ] subt, polebot pages
-- [ ] update fringe description
+- [x] subt, polebot pages
+- [x] update fringe description
 - [ ] carnival cancelled post

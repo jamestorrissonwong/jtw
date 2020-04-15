@@ -11,5 +11,5 @@ Oops maybe i shouldve changed this text
 
 <figure>
   <center><img src="{{ site.baseurl }}/assets/Polebot_V3.JPG"  style="width:100%"></center>
-  <figcaption>we dont have any recent pics rip</figcaption>
+  <figcaption>we don't have any recent pics</figcaption>
 </figure>
