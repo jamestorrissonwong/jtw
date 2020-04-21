@@ -12,7 +12,8 @@ title: Todo
 
 To Do:
 - [ ] select posts to /rotc/
-- [ ] gadgetry project page
+- [x] gadgetry project page
+- [ ] add images/video/schematics to page
 - [x] cprobot page 
 - [ ] api page
 - [ ] intregrate spotify api to this website?
@@ -24,3 +25,4 @@ To Do:
 - [x] subt, polebot pages
 - [x] update fringe description
 - [ ] carnival cancelled post
+- [ ] ladder logic & pcb design
