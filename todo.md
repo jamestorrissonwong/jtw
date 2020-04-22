@@ -20,9 +20,9 @@ To Do:
 - [ ] learn about webhooks with github pages
 - [ ] change block of c (idk what tho -> graphs?)
 - [x] find demo code for sml
-- [ ] posts on books (sheep man cometh, nix, bukowski)
+- [x] posts on books (sheep man cometh)
 - [ ] stress project page
 - [x] subt, polebot pages
 - [x] update fringe description
-- [ ] carnival cancelled post
-- [ ] ladder logic & pcb design
+- [x] carnival cancelled post
+- [ ] ladder logic, pcb design
