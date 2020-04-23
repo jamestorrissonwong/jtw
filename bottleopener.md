@@ -15,3 +15,10 @@ The purpose of this project was originally to design, build and test an assisted
 
 I was in charge of managing the group, ensuring deadlines were met, as well as doing all of the electronics for the project, including choosing motors and sensors. 
 
+<div class="iframe-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/IvYY5zaRxhA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Q538_5a_UCg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
