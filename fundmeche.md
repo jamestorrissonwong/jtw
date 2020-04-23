@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /fundmeche/
-title: Dynamic Systems and Controls
+title: Fundamentals of Mechanical Engineering
 ---
 
 
