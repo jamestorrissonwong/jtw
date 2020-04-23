@@ -22,6 +22,8 @@ To Do:
 - [x] find demo code for sml
 - [x] posts on books (sheep man cometh)
 - [ ] stress project page
+- [ ] update subt page with actual info
+- [ ] look into making subtle sidebars?
 - [x] subt, polebot pages
 - [x] update fringe description
 - [x] carnival cancelled post

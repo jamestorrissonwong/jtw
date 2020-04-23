@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Searching for a Meaning in a Bowl of Soup
-date: 2020-04-21 23:00:00
+date: 2017-10-04 06:00:00
 permalink: /wildsheepchase/
 categories: 
 tags: [Books] 
