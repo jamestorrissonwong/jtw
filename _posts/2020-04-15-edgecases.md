@@ -4,7 +4,7 @@ title: Edge Cases
 date: 2020-04-15 22:00:00
 permalink: /edgecases/
 categories: 
-tags: [Trans, WritingAndMusings] 
+tags: [Trans, WritingsAndMusings] 
 last_modified_at: 
 ---
 
