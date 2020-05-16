@@ -15,9 +15,9 @@ To Do:
 - [ ] tsa
 - [ ] northrop
 - [ ] shark bait
-- [ ] odyssey/nemo/noone/exile
+- [x] odyssey/nemo/noone/exile
 - [ ] add ref page/ref sheets
-- [ ] what's in a name?
+- [x] what's in a name?
 - [ ] select posts to /rotc/
 - [ ] add images/video/schematics to page
 - [ ] learn about webhooks with github pages
@@ -27,6 +27,7 @@ To Do:
 - [ ] ladder logic, pcb design
 - [ ] gadgetry project page
 - [ ] noobs for rpi0/server/dynamic site (idk what the benefit of this would actually be)
+- [ ] gold?
 
 Complete:
 - [x] cprobot page 
