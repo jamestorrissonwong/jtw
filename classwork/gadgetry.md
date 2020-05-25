@@ -15,10 +15,6 @@ title: Gadgetry
 - Make a final project
 
 <span class="fixed">Final Project</span> 
-
-
-{% highlight MATLAB %}
-
-{% endhighlight %}
+With the broad topic of designing an "assistive device," my group decided to prototype an automated bottle opener. More information can be found [here](/bottleopener/)
 
  
