@@ -7,10 +7,11 @@ title: Principles of Functional Programming
 
 ## <small>15-150</small>
 
-
 <span class="improved">Course Highlights</span> 
-
-
+- Proving the correctness of code, as well as extensional equivalence
+- Discuss topics such as abstraction, complexity, and modularity
+- Introduce recursive proofs, data structures, higher order functions, and continuation passing style
+- Programming skills in SML
 
 
 {% highlight SML %}
