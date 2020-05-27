@@ -18,8 +18,9 @@ My School Email: [jtw2@andrew.cmu.edu](mailto:jtw2@andrew.cmu.edu "My School Ema
 My Personal Email: [jamestorrissonwong@gmail.com](mailto:jamestorrissonwong@gmail.com "My Personal Email")
 
 <br>
+
 ### For the full archive of my posts
 <span class = "fixed"><a style="color:white;" href="/archive/">archive</a></span>
-
+<br>
 
 
