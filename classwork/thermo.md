@@ -14,8 +14,6 @@ title: Thermodynamics
 - Looking at ideal and non-ideal processes
 - Interpreting PV graphs
 
-
-
 {% highlight MATLAB %}
 
 {% endhighlight %}

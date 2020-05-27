@@ -11,8 +11,7 @@ title: Dynamic Systems and Controls
 <span class="improved">Course Highlights</span> 
 - Examine dynamic systems with transfer functions and state space representations
 - Work with systems in both frequency and time domains
-- Controls
-
+- Controls -- mainly PID implementation
 
 
 {% highlight MATLAB %}

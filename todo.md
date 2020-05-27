@@ -15,9 +15,8 @@ To Do:
 - [ ] tsa
 - [ ] northrop
 - [ ] shark bait
-- [x] odyssey/nemo/noone/exile
 - [ ] add ref page/ref sheets
-- [x] what's in a name?
+
 - [ ] select posts to /rotc/
 - [ ] add images/video/schematics to page
 - [ ] learn about webhooks with github pages
@@ -25,8 +24,7 @@ To Do:
 - [ ] update subt page with actual info
 - [ ] look into making subtle sidebars?
 - [ ] ladder logic, pcb design
-- [ ] gadgetry project page
-- [ ] noobs for rpi0/server/dynamic site (idk what the benefit of this would actually be)
+- [ ] noobs for rpi0/server/dynamic site (idk what the benefit of this would actually be [no directory listing, can use password protection, no limit? on size of files])
 - [ ] gold?
 
 Complete:
@@ -38,7 +36,9 @@ Complete:
 - [x] subt, polebot pages
 - [x] update fringe description
 - [x] carnival cancelled post
-
+- [x] what's in a name?
+- [x] odyssey/nemo/noone/exile
+- [x] gadgetry project page
 
 Do not lose
 
