@@ -1,16 +1,11 @@
-
-.column {
-    float: left;
-}
-
-  .left {
-    width: 75%;
-  }
-  
-  .right {
-    position: fixed;
-    top: 0;
+.sidenav {
+    height: 100%;
+    width: 160px;
     right: 0;
-    min-width: 1rem;
-    width: 25%;
+    position: fixed;
+
   }
+
+.left {
+    margin-right: 160px; 
+}
