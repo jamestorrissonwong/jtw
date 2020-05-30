@@ -6,8 +6,15 @@ title: Current Work
 
 This page contains all of my classes and projects in progress/completed 
 
-<div>
-<h2><small>Classes</small></h2>
+<div class="sidenav">
+  <a href="#section1">Current Classes</a> <br>
+  <a href="#section2">Projects</a> <br>
+  <a href="#section3">Hiatus Projects</a> <br>
+  <a href="#section4">Completed Classes/Projects</a> <br>
+</div>
+
+<div class="left">
+<h2 id="section1"><small>Classes</small></h2>
 This Semester I'm taking:
 <table>
   <tr>
@@ -31,7 +38,7 @@ This Semester I'm taking:
   </tr>
 </table>
 
-<h2><small>Projects</small></h2>
+<h2 id="section2"><small>Projects</small></h2>
 
 <table>
   <tr>
@@ -49,7 +56,7 @@ This Semester I'm taking:
 </table>
 
 
-<h2><small>Backlog/Hiatus Projects</small></h2>
+<h2 id="section3"><small>Backlog/Hiatus Projects</small></h2>
 
 <table>
   <tr>
@@ -66,7 +73,7 @@ This Semester I'm taking:
   </tr>
 </table>
 
-<h2><small>Completed (So Not Current, I Suppose)</small></h2>
+<h2 id="section4"><small>Completed (So Not Current, I Suppose)</small></h2>
 
 <table>
   <tr>
@@ -115,35 +122,4 @@ This Semester I'm taking:
     <td>Fall 2019</td>
   </tr>
 </table>
-
-</div>
-
-<div>
-
-{% assign tags_sorted = site.tags | sort %}
-  
-
-{% for tag in tags_sorted %}
-    {% capture tag_name %}{{ tag | first }}{% endcapture %}
-
-    {% if tag_name == "Current" %}
-        
-  <div class="archive-group">
-    {% capture tag_name %}{{ tag | first }}{% endcapture %}
-	
-    <div id="#{{ tag_name | slugize }}"></div>
-
-    <h3 class="tag-head"><small>#{{ tag_name }}</small></h3>
-    <a name="{{ tag_name | slugize }}"></a>
-
-    {% for post in site.tags[tag_name] %}
-    <article class="archive-item">
-      <a href="{{ post.url }}">{{ post.title }}{% if post.link %}<span class="link-arrow"> &rarr;</span>{% endif %}</a>
-    </article>
-    {% endfor %}
-  </div>
-    {% endif %}
-
-{% endfor %}
-
 </div>
