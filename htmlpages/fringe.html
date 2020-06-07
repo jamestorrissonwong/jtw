@@ -6,16 +6,113 @@ title: Fringe
 
 <h2><small>On the Edge Since 1969</small></h2>
 
-Fringe is a social organization at CMU, which is home to both a Booth and Buggy team. Fringe for me is my family at college, and I have learned everything from how to do carbon fiber layups, to how to wire outlets and lights to construction standards, and that we will never have enough girls for IM sports. If those first two things sound interesting, check out the buggy and booth pages, linked below
+<div class="sidenav">
+  <a href="#section1">Buggy</a> <br>
+  <a href="#section2">Booth</a> <br>
+</div>
+
+<div class="left">
+Fringe is a social organization at CMU, which is home to both a Booth and Buggy team. Fringe for me is my family at college, and I have learned everything from how to do carbon fiber layups, to how to wire outlets and lights to construction standards, and that we will never have enough girls for IM sports. If those first two things sound interesting, check out the buggy and booth pages, linked below. <br>
+
+<figure>
+  <center><img src="{{ site.baseurl }}/assets/fringe_buggy.JPG" style="width:100%"></center>
+</figure>
+
+In actuality, Fringe has been one of my main driving forces outside of classwork. Truthfully, I have stayed up late and gotten up early for Booth and Buggy than I have ever needed to for classwork. I regularly put in over 10-15 hours of work into Fringe every week, and I truly enjoy doing so. 
 
 <br>
 <br>
-<span class="improved"><a style="color:white;" href="/buggy/">Buggy</a></span> 
+<span class="improved">Buggy</span> <br>
+<p id="section1">
+<h2><small>your favorite high-speed relay race</small></h2>
+
+Buggy is a 100 year old tradition at Carnegie Mellon. Students design, build, and then race carbon fiber buggies around
+a 0.84 mile track. These buggies operate under only energy gained from 5 pushers (on uphill sections) and gravity
+(during the freeroll).
+
+I have served in a variety of positions for buggy, as a mechanic, pusher, Mechanic-In-of-Repairs, potential driver, and
+currently, as a Head Mechanic and Chairman.
+
+<figure>
+  <center><img src="{{ site.baseurl }}/assets/bumper.JPG" style="width:100%"></center>
+</figure>
+
+<div>
+
+  {% assign tags_sorted = site.tags | sort %}
+
+
+  {% for tag in tags_sorted %}
+  {% capture tag_name %}{{ tag | first }}{% endcapture %}
+
+  {% if tag_name == "Buggy" %}
+
+  <div class="archive-group">
+    {% capture tag_name %}{{ tag | first }}{% endcapture %}
+
+    <div id="#{{ tag_name | slugize }}"></div>
+
+    <h3 class="tag-head"><small>#{{ tag_name }}</small></h3>
+    <a name="{{ tag_name | slugize }}"></a>
+
+    {% for post in site.tags[tag_name] %}
+    <article class="archive-item">
+      <a href="{{post.url }}">{{ post.title }}{% if post.link %}<span class="link-arrow">
+          &rarr;</span>{% endif %}</a>
+    </article>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  {% endfor %}
+
+</div>
+</p>
 
 <br>
 <br>
-<a style="color:white;" href="/booth/"><span class="improved">Booth</span></a>
+<span class="improved">Booth</span><br>
+<p id="section2">
+<h2><small>Building Small Houses</small></h2>
 
+Booth is one of Carnegie Mellon's Carnival traditions, which involves students building 1 or 2 storey buildings,
+complete with lighting, power, and structural integrity in 5 days, while still participating in their classes.
+
+<figure>
+  <center><img src="{{ site.baseurl }}/assets/booth_skeletons.jpg" style="width:100%"></center>
+</figure>
+
+<div>
+
+  {% assign tags_sorted = site.tags | sort %}
+
+
+  {% for tag in tags_sorted %}
+  {% capture tag_name %}{{ tag | first }}{% endcapture %}
+
+  {% if tag_name == "Booth" %}
+
+  <div class="archive-group">
+    {% capture tag_name %}{{ tag | first }}{% endcapture %}
+
+    <div id="#{{ tag_name | slugize }}"></div>
+
+    <h3 class="tag-head"><small>#{{ tag_name }}</small></h3>
+    <a name="{{ tag_name | slugize }}"></a>
+
+    {% for post in site.tags[tag_name] %}
+    <article class="archive-item">
+      <a href="{{post.url }}">{{ post.title }}{% if post.link %}<span class="link-arrow">
+          &rarr;</span>{% endif %}</a>
+    </article>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  {% endfor %}
+
+</div>
+</p>
 <div>
 
 {% assign tags_sorted = site.tags | sort %}
@@ -44,4 +141,5 @@ Fringe is a social organization at CMU, which is home to both a Booth and Buggy 
 
 {% endfor %}
 
+</div>
 </div>
