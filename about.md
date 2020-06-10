@@ -6,7 +6,7 @@ title: About
 
 ### James Wong
 
-is a current Sophomore studying Mechanical Engineering. Currently also pursuing coursework in Cybersecurity and International Conflict as well as Computer Science. Also works in a robotics lab. 
+When getting some inital feedback on my website, I was asked why I had "mechanical engineer +" under my name. Why a plus? Well, I think it speaks to the breadth of my interests and passions. I'm a Junior in Mechanical Engineering. PLUS I'm pursuing coursework in Cybersecurity and International Conflict as well as Computer Science. PLUS I work with robots. And rockets. And buggies. And hopefully more fields I haven't even discovered yet. Plus, did I mention it looks cool?
 <br>
 
 ### Who is he really?
