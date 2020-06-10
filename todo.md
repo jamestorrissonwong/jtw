@@ -4,28 +4,16 @@ permalink: /todo/
 title: Todo
 ---
 
-<a href="/frc/"> FRC </a>
-<a href="/tsa/"> TSA </a>
-<a href="/ng/"> NGHSIC </a>
-<a href="/sharkbait/"> SB </a>
-
-
 To Do:
 - [ ] frc
 - [ ] tsa
-- [ ] northrop
 - [ ] shark bait
 - [ ] add ref page/ref sheets
-
-- [ ] select posts to /rotc/
-- [ ] add images/video/schematics to page
-- [ ] learn about webhooks with github pages
 - [ ] stress project page
-- [ ] update subt page with actual info
-- [ ] look into making subtle sidebars?
+- [ ] select posts to /rotc/
+- [ ] learn about webhooks with github pages
 - [ ] ladder logic, pcb design
 - [ ] noobs for rpi0/server/dynamic site (idk what the benefit of this would actually be [no directory listing, can use password protection, no limit? on size of files])
-- [ ] gold?
 
 Complete:
 - [x] cprobot page 
@@ -39,6 +27,9 @@ Complete:
 - [x] what's in a name?
 - [x] odyssey/nemo/noone/exile
 - [x] gadgetry project page
+- [x] northrop
+- [x] update subt page with actual info
+- [x] look into making subtle sidebars?
 
 Do not lose
 
