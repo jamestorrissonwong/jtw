@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /imperative/
 title: Principles of Imperative Computation
 ---
 
