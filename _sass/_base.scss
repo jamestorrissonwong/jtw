@@ -43,10 +43,10 @@ a {
   &:hover,
   &:focus {
     text-decoration: none;
-	color: $light;
+	color: #60c5ff;
 	
 	@media (prefers-color-scheme: dark) {
-    color: $dark;
+    color: #d0f6db;
     }
   }
 

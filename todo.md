@@ -5,9 +5,7 @@ title: Todo
 ---
 
 To Do:
-- [ ] frc
-- [ ] tsa
-- [ ] shark bait
+- [ ] rollover highlighting on sidenav
 - [ ] add ref page/ref sheets
 - [ ] stress project page
 - [ ] select posts to /rotc/
@@ -30,6 +28,9 @@ Complete:
 - [x] northrop
 - [x] update subt page with actual info
 - [x] look into making subtle sidebars?
+- [x] frc
+- [x] tsa
+- [x] shark bait
 
 Do not lose
 
