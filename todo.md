@@ -5,7 +5,7 @@ title: Todo
 ---
 
 To Do:
-
+- [ ] merit
 - [ ] add ref page/ref sheets
 - [ ] stress project page
 - [ ] select posts to /rotc/
@@ -31,7 +31,6 @@ Complete:
 - [x] frc
 - [x] tsa
 - [x] shark bait
-- [x] rollover highlighting on sidenav
 
 Do not lose
 
@@ -49,16 +48,6 @@ Do not lose
 
 >"I can bear any pain as long as it has meaning"
 
->"Repeat after me: My current situation is not my final destination"
-
->"You are loved, even when you feel alone. Hang on. It gets easier, and then it feels okay, and then it geels like freedom."
+>"When you come out of the storm, you won’t be the same person who walked in. That’s what this storm’s all about"
 
 >"It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat"
-
->"I've survived a lot of things, and I'll probably survive this"
-
->"And once the storm is over, you won't remember how you made it through, how you managed to survive. You won't even be sure whether the storm is really over. But one thing is certain. When you come out of the storm, you won't be the same person who walked in. That's what the storm is all about"
-
->"Doubt kills more dreams than failure ever will"
-
->"
