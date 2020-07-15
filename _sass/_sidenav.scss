@@ -2,6 +2,11 @@
   display: flex;
 }
 
+.main,
+.sidebar {
+  padding: 15px;
+}
+
 .sidenav {
     width: 15%;
     top: 0;
@@ -12,5 +17,5 @@
   }
 
 .left {
-    margin-right: 15%; 
+    width: 60%;
 }
