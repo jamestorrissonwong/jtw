@@ -1,16 +1,54 @@
 .wrapper {
-  display: flex;
-  justify-content: space-between;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    overflow: visible;
 }
 
 .left {
-  width: 60%;
+  width: 85%;
 }
 
 .sidenav {
-    width: 15%;
-    top: 0;
+    width: 10%;
+}
+
+.sidenav {
     position: -webkit-sticky;
     position: sticky;
+    top: 0;
   }
 
+
+
+/* apply a natural box layout model to all elements, but allowing components to change 
+
+.wrapper {
+  width: 100%;
+  max-width: 600px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 60px;
+  margin-bottom: 200px;
+}
+.left {
+  padding: 0 15px;
+  width: 380px;
+}
+
+.sidenav {
+  padding: 20px;
+  width: 170px;
+  background-color: #434A54;
+  color: #fff;
+}
+
+
+*/
+/* The sticky 
+.sidenav {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+*/
