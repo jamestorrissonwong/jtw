@@ -15,7 +15,7 @@ _gh_pages
 *.zip
 *.vi
 *~
-_site/
+_site/*
 .vscode/
 
 # OS or Editor folders
