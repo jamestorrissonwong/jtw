@@ -15,6 +15,8 @@ _gh_pages
 *.zip
 *.vi
 *~
+_site/
+.vscode/
 
 # OS or Editor folders
 .DS_Store
