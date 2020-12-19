@@ -3,6 +3,8 @@ _gh_pages
 .ruby-version
 .sass-cache
 .jekyll-cache
+_site
+.vscode
 
 # Numerous always-ignore extensions
 *.diff
@@ -15,6 +17,7 @@ _gh_pages
 *.zip
 *.vi
 *~
+_site/*
 
 # OS or Editor folders
 .DS_Store

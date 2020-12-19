@@ -9,5 +9,8 @@ title: Dynamics
 
 
 <span class="improved">Course Highlights</span> 
+- Analyze kinematic and kinetic systems
+- Solve for particles and bodies in motion
+- Study force, acceleration, impulse, momentum, work, and energy
 
  
