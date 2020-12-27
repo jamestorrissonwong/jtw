@@ -36,5 +36,9 @@
       background-color: $body-bg-dark;
     }
     color: $body-color;
+    @media (prefers-color-scheme: dark) {
+      background-color: $body-color-dark;
+    }
+
   }
   
