@@ -92,11 +92,5 @@ th {
   text-align: left;
 }
 
-tbody tr:nth-child(odd) td,
-tbody tr:nth-child(odd) th {
-  background-color: #eee;
 
-@media (prefers-color-scheme: dark) {
-  background-color: #2d2d2d;
-  }
 }
